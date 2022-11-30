@@ -1,1 +1,1 @@
-# Analysis-of-data-on-COVID
+# Covid data analysis
