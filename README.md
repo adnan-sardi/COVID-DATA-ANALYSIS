@@ -54,3 +54,9 @@ Last sentence was influenced by *Tony Judt* (Tony Robert Judt FBA was a British-
 While countries as Italy, Germany and France probably have many deaths because the Covid has trasmitted in Europe earlier than in other continents.
 
 
+![World Visualization of Deaths](https://user-images.githubusercontent.com/104760218/205110102-eb753c8a-3a73-4bec-aced-02955921e177.png)
+
+This map represents the *Percent population infected* where yellow indicates zero and the red the maximum value, in this case 67,26%. 
+Focusing on the red areas we can find the main countires in Europe with the U.S. and Australia. As we mentioned before this is because covid has trasmitted in Europe earlier than in other continents and the size of european nations isn't large 
+
+
