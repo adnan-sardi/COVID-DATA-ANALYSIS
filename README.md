@@ -4,7 +4,7 @@
 
 In this analysis we will use a dataset where the last day of it is November 6th 2022. Our data is taken on website: https://ourworldindata.org/covid-deaths and before started own analysis we made a data cleaning, tipically phase for data scientist/analysit. 
 
-**Data cleaning**: After downloading the dataset we splited it into two. The first one is care about information of deaths and the second one is about information on  vaccinated people. However being very large and confusional we thought was more convinient using some SQL server for manipulate dataset based on what we want, we used SQL Microsoft and it was possible to connect it to own server in tableau for data visualization. 
+**Data cleaning**: After downloading the dataset we splited it into two. The first one is care about information of deaths and the second one is about information on  vaccinated people. However being very large and confusional we thought was more convinient using some SQL server for manipulate dataset based on what we want, we used SQL Microsoft and it was possible to connect it to own server in Tableau for data visualization. 
 The script of SQL can be found in 'SQL data exploration.sql' in this reporty. 
 
 **Analysis**: 
