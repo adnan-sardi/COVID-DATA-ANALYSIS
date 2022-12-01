@@ -13,6 +13,8 @@ In own dataset we could do every analysis we want for any country, because I liv
 
 **Now we report the italian summary about Covid until 6th November 2022.**
 
+**ITALY NUMBERS**
+
 ![Italy Summary Table](https://user-images.githubusercontent.com/104760218/204905976-65fb2958-9dd5-42e7-ad37-39a0ad716efe.png)
 
 As we can see the ratio of *Total Cases* and *Total_Deaths* are less than 5%, which makes us think about a good health organization system or a good epidemic management. This is also confirmed by the *Percentage vaccinated*, at least 81.26% of population is fully vaccinated. 
@@ -40,5 +42,11 @@ After Jan 2021 the number of deaths remained constant but still increase.
 **People_Fully_Vaccinated**:
 Distribution of vaccines in Italy started between Dec. 2020 and Jan. 2021, of course the line follows a parabolic curve until Jan 2022. Here most people have been vaccinated, and the number of unvaccinated people is always lower than before. In the last five months, the line seems asymptotic at 50 milion people.
 
+
+
+**GLOBAL NUMBERS**
+![Top 10 Country Deaths](https://user-images.githubusercontent.com/104760218/205101346-dccccbb5-0f55-4ebd-9e6d-3350b10a8bf4.png)
+
+![World Visualization of Deaths](https://user-images.githubusercontent.com/104760218/205101248-272cf06c-805c-46ad-9f58-0690cc20b341.png)
 
 
