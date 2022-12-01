@@ -57,6 +57,7 @@ While countries as Italy, Germany and France probably have many deaths because t
 ![World Visualization of Deaths](https://user-images.githubusercontent.com/104760218/205110102-eb753c8a-3a73-4bec-aced-02955921e177.png)
 
 This map represents the *Percent population infected* where yellow indicates zero and the red the maximum value, in this case 67,26%. 
-Focusing on the red areas we can find the main countires in Europe with the U.S. and Australia. As we mentioned before this is because covid has trasmitted in Europe earlier than in other continents and the size of european nations isn't large 
+Focusing on the red areas we can find the main countires in Europe with the U.S. and Australia. As we mentioned before this is because covid has trasmitted in Europe earlier than in other continents and the size of european nations isn't large.
 
-
+This analysis hasn't been made for carefully analyze the damage done by covid, there are many sites on web for thaking notices about it.
+My purpuse was to improve my skills with SQL and Tableu, I invite everyone to look at my code for understand what I did and what I could did better, finally I want to thank a youtuber *"Alex the analyst"* who helped me in this analyisis.
