@@ -45,8 +45,12 @@ Distribution of vaccines in Italy started between Dec. 2020 and Jan. 2021, of co
 
 
 **GLOBAL NUMBERS**
-![Top 10 Country Deaths](https://user-images.githubusercontent.com/104760218/205101346-dccccbb5-0f55-4ebd-9e6d-3350b10a8bf4.png)
+![Top 10 Country Deaths](https://user-images.githubusercontent.com/104760218/205102426-51aafea9-27d6-4da2-b8ce-99359b2988f1.png)
 
-![World Visualization of Deaths](https://user-images.githubusercontent.com/104760218/205101248-272cf06c-805c-46ad-9f58-0690cc20b341.png)
+In this plot we taken the country that have equal or more 150K deaths, the legend help us to understand the country. 
+Now we can ask to ourself why this countries have many diedes. My opinion come from the management of the virus and the country hospital system, indeed coutries as Brazil, India, Mexico and Perù have a friable hospital system and in a situation like Covid this system is put in front an hard challenge.
+Countries such as the U.S. and U.K. have outdated health care systems that respect the needs of their citizens.
+Last sentence was influenced by *Tony Judt* (Tony Robert Judt FBA was a British-American historian, essayist and university professor who specialized in European history) in *"Guasto è il mondo"*, I readed it in italian.
+While countries as Italy, Germany and France probably have many deaths because the Covid has trasmitted in Europe earlier than in other continents.
 
 
