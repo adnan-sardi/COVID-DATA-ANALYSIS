@@ -21,3 +21,24 @@ Obviously the summary could be as large as we want by taking another datas.
 
 ![Italy Data Visual](https://user-images.githubusercontent.com/104760218/204909302-30dcae48-ae9e-4b7b-a3da-ec22282ee2b7.png)
 
+In this chart we have three different lines:
+- Red, indicated *Total_Cases*
+- Dark, indicated *Total_Deaths*
+- Blue, indicated *People_Fully_Vaccinated*
+
+Now we are going to describe each line for different time scale for each of them.
+
+**Total_Cases**:
+Here we have two points where the line increases, the firt part it was between Sept. 2020 and Jan 2021 while the second was on Jan 2022. The last one it was been more impacted respect the first but this is beacuse the main part of population had at least one dose of vaccine.
+Than the curve has always increased as we could immagined.
+
+**Total_Deaths**:
+Also here we have two different points to analyse but in different time scale than before. 
+The first, unfortunately, it was at the beginning of epidemic where we unknown the virus while the second part it was during Sept. 2020 and Jan 2021 that is when the cases increased a lot, we might say that here the epidemic was still aggressive as more or less Apr. 2020. 
+After Jan 2021 the number of deaths remained constant but still increase.
+
+**People_Fully_Vaccinated**:
+Distribution of vaccines in Italy started between Dec. 2020 and Jan. 2021, of course the line follows a parabolic curve until Jan 2022. Here most people have been vaccinated, and the number of unvaccinated people is always lower than before. In the last five months, the line seems asymptotic at 50 milion people.
+
+
+
